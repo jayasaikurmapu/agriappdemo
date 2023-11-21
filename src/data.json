@@ -1,0 +1,242 @@
+[
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:00:23.880000+0000",
+      "color": "Gray",
+      "current_price": "10.8",
+      "prev_price": "10.8",
+      "price_change": "0.0"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:00:33.987000+0000",
+      "color": "red",
+      "current_price": "47.81",
+      "prev_price": "10.8",
+      "price_change": "342.69"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:00:44.122000+0000",
+      "color": "green",
+      "current_price": "10.47",
+      "prev_price": "47.81",
+      "price_change": "-78.1"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:00:54.250000+0000",
+      "color": "red",
+      "current_price": "16.05",
+      "prev_price": "10.47",
+      "price_change": "53.3"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:04.380000+0000",
+      "color": "red",
+      "current_price": "24.82",
+      "prev_price": "16.05",
+      "price_change": "54.64"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:14.528000+0000",
+      "color": "red",
+      "current_price": "47.36",
+      "prev_price": "24.82",
+      "price_change": "90.81"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:24.838000+0000",
+      "color": "green",
+      "current_price": "32.58",
+      "prev_price": "47.36",
+      "price_change": "-31.21"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:34.986000+0000",
+      "color": "red",
+      "current_price": "34.13",
+      "prev_price": "32.58",
+      "price_change": "4.76"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:45.176000+0000",
+      "color": "red",
+      "current_price": "46.01",
+      "prev_price": "34.13",
+      "price_change": "34.81"
+    },
+    {
+      "name": "apple",
+      "time": "2023-11-16 11:01:55.294000+0000",
+      "color": "green",
+      "current_price": "13.9",
+      "prev_price": "46.01",
+      "price_change": "-69.79"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:00:23.921000+0000",
+      "color": "Gray",
+      "current_price": "32.9",
+      "prev_price": "32.9",
+      "price_change": "0.0"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:00:34.034000+0000",
+      "color": "red",
+      "current_price": "35.6",
+      "prev_price": "32.9",
+      "price_change": "8.21"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:00:44.157000+0000",
+      "color": "red",
+      "current_price": "38.35",
+      "prev_price": "35.6",
+      "price_change": "7.72"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:00:54.302000+0000",
+      "color": "red",
+      "current_price": "43.37",
+      "prev_price": "38.35",
+      "price_change": "13.09"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:04.429000+0000",
+      "color": "green",
+      "current_price": "13.19",
+      "prev_price": "43.37",
+      "price_change": "-69.59"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:14.579000+0000",
+      "color": "red",
+      "current_price": "33.37",
+      "prev_price": "13.19",
+      "price_change": "152.99"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:24.887000+0000",
+      "color": "green",
+      "current_price": "27.61",
+      "prev_price": "33.37",
+      "price_change": "-17.26"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:35.036000+0000",
+      "color": "red",
+      "current_price": "42.89",
+      "prev_price": "27.61",
+      "price_change": "55.34"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:45.225000+0000",
+      "color": "green",
+      "current_price": "24.64",
+      "prev_price": "42.89",
+      "price_change": "-42.55"
+    },
+    {
+      "name": "banana",
+      "time": "2023-11-16 11:01:55.332000+0000",
+      "color": "red",
+      "current_price": "49.27",
+      "prev_price": "24.64",
+      "price_change": "99.96"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:00:23.949000+0000",
+      "color": "Gray",
+      "current_price": "40.55",
+      "prev_price": "40.55",
+      "price_change": "0.0"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:00:34.072000+0000",
+      "color": "green",
+      "current_price": "13.83",
+      "prev_price": "40.55",
+      "price_change": "-65.89"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:00:44.196000+0000",
+      "color": "red",
+      "current_price": "41.45",
+      "prev_price": "13.83",
+      "price_change": "199.71"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:00:54.339000+0000",
+      "color": "green",
+      "current_price": "26.28",
+      "prev_price": "41.45",
+      "price_change": "-36.6"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:04.469000+0000",
+      "color": "red",
+      "current_price": "39.56",
+      "prev_price": "26.28",
+      "price_change": "50.53"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:14.785000+0000",
+      "color": "green",
+      "current_price": "11.23",
+      "prev_price": "39.56",
+      "price_change": "-71.61"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:24.927000+0000",
+      "color": "red",
+      "current_price": "30.15",
+      "prev_price": "11.23",
+      "price_change": "168.48"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:35.105000+0000",
+      "color": "green",
+      "current_price": "19.17",
+      "prev_price": "30.15",
+      "price_change": "-36.42"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:45.257000+0000",
+      "color": "red",
+      "current_price": "32.73",
+      "prev_price": "19.17",
+      "price_change": "70.74"
+    },
+    {
+      "name": "papaya",
+      "time": "2023-11-16 11:01:55.375000+0000",
+      "color": "red",
+      "current_price": "37.7",
+      "prev_price": "32.73",
+      "price_change": "15.18"
+    }
+  ]
